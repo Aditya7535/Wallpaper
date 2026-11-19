@@ -1,0 +1,6 @@
+{
+  "name": "VibeFrame",
+  "description": "Mobile-first phone wallpaper studio. Describe a vibe to generate 4 high-resolution variations, preview full screen, download, and remix with visual references.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
